@@ -1,0 +1,26 @@
+Relaxr Landing Page: Part 1
+==================
+
+We'll be working on this site for the next three classes, just a heads up.
+
+For today, we'll be making a simplified version of the site which uses only one column. Your job is to build out the CSS - using the information below - for the page!
+
+---
+
+benefits background color: #f0efef
+yellow: #f9e42e
+dark blue: #033048
+light grey: #606161
+almost black: #121212
+
+
+"Get it Now" - Extra bold, 5px border radius
+
+
+
+"- Amanda, Intuit " - semibold
+
+"Sign Up Now!" - extra bold, 5px border radius
+
+Relaxr - extra bold
+"Copyright 2015. Relaxr." - semibold
