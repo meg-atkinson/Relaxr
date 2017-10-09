@@ -113,6 +113,10 @@ a {
 	border-radius: 5px;
 }
 
+a:hover {
+	opacity: 0.5;
+}
+
 .yellow-button {
 	margin: 0 auto;
 	padding: 20px 0;
@@ -272,6 +276,12 @@ h5 {
 
 .blog-post p {
 	color: #606161;
+}
+
+.blog-post p:first-letter {
+	float: left;
+	font-size: 80px;
+	line-height: 0.9;
 }
 
 .blog-post a {
